@@ -1,2 +1,1 @@
-# ecommerce_vendor_payment
-E-commerce company B2B vendors delayed payment prediction
+# Prediction of customer’s likelihood of late payment for open invoices in a E-commerce B2B company.
